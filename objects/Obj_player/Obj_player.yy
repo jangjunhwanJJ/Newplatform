@@ -1,13 +1,19 @@
 {
   "spriteId": {
-    "name": "Spr_player",
-    "path": "sprites/Spr_player/Spr_player.yy",
+    "name": "Spr_player_idle",
+    "path": "sprites/Spr_player_idle/Spr_player_idle.yy",
   },
   "solid": false,
   "visible": true,
-  "spriteMaskId": null,
+  "spriteMaskId": {
+    "name": "Spr_player_idle",
+    "path": "sprites/Spr_player_idle/Spr_player_idle.yy",
+  },
   "persistent": false,
-  "parentObjectId": null,
+  "parentObjectId": {
+    "name": "O_entity",
+    "path": "objects/O_entity/O_entity.yy",
+  },
   "physicsObject": false,
   "physicsSensor": false,
   "physicsShape": 1,
